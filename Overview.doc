@@ -1,0 +1,21 @@
+                                                                        Data Mining Tools and Techniques
+                                                                  Homework – Analyzing Data, Posing Questions
+                                                                  
+SUMMARY:
+
+For this assignment, I will be working with different types of data sets. My goal is to understand and characterize one data set and pose data mining question against three/four datasets.
+There are total of 4 different datasets:
+Dataset 1: Car Dealership Sales
+Dataset 2: USA accident Data
+Dataset 3: Volcano Eruption Data
+Dataset 4: Airbnb
+
+For dataset 1:
+a)	I provided descriptive statistic for each attribute as they apply. This may include minimum, maximum, average, etc.
+b)	For each attribute, explain whether it is descriptive, discrete, continuous, or discontinuous?
+c)	Is this a supervised or unsupervised data set? If supervised, what is the class variable(s)?
+d)	Is this data set time-series, temporal, spatial data, sequence, some combination, or none of these?
+e)	What measurement scale is the dependent variable (if it exists, it is usually the right-most column)?
+
+For dataset 2 to 4:
+I formulate 3 specific questions against datasets, which are based on classification, regression and clustering type.
